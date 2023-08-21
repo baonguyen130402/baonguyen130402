@@ -2,6 +2,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Birk
 ============================================================================================================================
 
+<img style="width: 250px; height: 200px;" align="right" src="https://media.giphy.com/media/10IEUy0f5V3WLu/giphy.gif" />
+
 A young dumb frontend developer from Viet Nam
 ---------------------------------------------
 
@@ -9,7 +11,6 @@ A young dumb frontend developer from Viet Nam
 * 🧠  I'm learning a new framework
 * ⚡  I'm a introvert
 
-<img style="width: 250px; height: 200px; border-radius:50% " align="right" src="https://media.giphy.com/media/10IEUy0f5V3WLu/giphy.gif" />
 
 ### Skills
 
