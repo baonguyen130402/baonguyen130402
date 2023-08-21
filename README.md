@@ -9,7 +9,7 @@ A young dumb frontend developer from Viet Nam
 
 * 🌍  I'm based in Viet Nam
 * 🧠  I'm learning a new framework
-* ⚡  I'm a introvert
+* ⚡  I'm an introvert
 
 
 ### Skills
