@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img style="width: 250px; height: 200px;" align="right" src="https://media.giphy.com/media/10IEUy0f5V3WLu/giphy.gif" />
 
-A young dumb frontend developer from Viet Nam
+A young frontend developer from Viet Nam
 ---------------------------------------------
 
 * 🌍  I'm based in Viet Nam
