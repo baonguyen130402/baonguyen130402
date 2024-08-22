@@ -19,11 +19,3 @@ A young frontend developer from Viet Nam
 <!-- ### Socials -->
 
 <!-- <p align="left"> <a href="https://www.facebook.com/bao.nguyen1304" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/baonguyen130402" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p> -->
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/baonguyen130402"><img align="right" src="https://github-readme-stats.vercel.app/api?username=baonguyen130402&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="baonguyen130402's GitHub stats" /></a>
-
-<a href="https://github.com/baonguyen130402" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyen130402&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
