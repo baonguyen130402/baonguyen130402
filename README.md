@@ -1,10 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https:github.com/baonguyen130402)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Birk
 ============================================================================================================================
-
-<img style="width: 250px; height: 200px;" align="right" src="https://media.giphy.com/media/10IEUy0f5V3WLu/giphy.gif" />
-
-
 A young frontend developer from Viet Nam
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -19,6 +15,7 @@ A young frontend developer from Viet Nam
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baonguyen130402&show_icons=true&theme=transparent) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyen130402&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img style="width: 250px; height: 200px;" align="right" src="https://media.giphy.com/media/10IEUy0f5V3WLu/giphy.gif" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=baonguyen130402&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
