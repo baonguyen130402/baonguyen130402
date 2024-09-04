@@ -21,13 +21,14 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
-  <a href="#" title="birk">
-    <img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyen130402&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  </a>
+<div align="center"> 
   <a href="#">
-    <img align="right" witdh="434" src="https://github-readme-stats.vercel.app/api?username=baonguyen130402&show_icons=true&theme=transparent&hide_border=false&rank_icon=github" />
+    <img align="center" witdh="434" src="https://github-readme-stats.vercel.app/api?username=baonguyen130402&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
   </a>  
+  
+  <a href="#">
+    <img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyen130402&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  </a>
 </div>
 
 
