@@ -1,16 +1,34 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https:github.com/baonguyen130402)
 
-<h1 align="center">
-  <img width="45" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> Hi everyone, I'm BIRK
-</h1>
+<did align="center">
+  <h1 align="center">
+    <img width="45" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> Hi everyone, I'm BIRK<br>I'm a web developer from Viet Nam 🌱
+  </h1>
+</div>
 
-# 💫 About Me:
+<!--# 💫 About Me:
 <div align="center">
   <div align="left">
     <h3>🔭 I’m a web developer from Viet Nam</h3>
     <h3>🌱 I’m currently learning a new framework</h3>
     <h3>⚡ I'm a introvert </h3>
   </div>
+</div> -->
+
+# 🌐 Socials:
+<div align="center">
+  <a href="https://fb.com/bao.nguyen1304" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="birk-facebook" />
+  </a>
+  <a href="https://instagram.com/birkdev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="birk-instagram" />
+  </a>
+  <a href="mailto:baonguyen130402@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="birk-email" />
+  </a>
+  <a href="https://discordapp.com/users/707146688145653791" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/discord.png" alt="birk-discord" />
+  </a>
 </div>
 
 # 💻 Tech Stack:
@@ -30,7 +48,6 @@
     <img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyen130402&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   </a>
 </div>
-
 
 ## 🏆 GitHub Trophies
 <div align="center">
