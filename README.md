@@ -41,7 +41,7 @@
 # 📊 GitHub Stats:
 <div align="center"> 
   <a href="#">
-    <img align="center" witdh="434" src="https://github-readme-stats.vercel.app/api?username=baonguyen130402&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+    <img align="center" witdh="434" src="https://github-readme-stats.vercel.app/api?username=baonguyen130402&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
   </a>  
   
   <a href="#">
