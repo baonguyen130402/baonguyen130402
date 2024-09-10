@@ -50,9 +50,9 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<!--<div align="center">
   
   ![](https://github-profile-trophy.vercel.app/?username=baonguyen130402&include_all_commits=true&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
-</div>
+</div> -->
 
 <img align="right" src="https://visitcount.itsvg.in/api?id=baonguyen130402&icon=0&color=0)](https://visitcount.itsvg.in" />
