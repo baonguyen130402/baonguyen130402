@@ -48,7 +48,7 @@
   </a>
 </div>
 
-## Github Trophy
+## 🏆 Github Trophy: 
 <div align="center">
   
   ![](https://github-profile-trophy.vercel.app/?username=baonguyen130402&include_all_commits=true&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
